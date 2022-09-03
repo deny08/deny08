@@ -1,4 +1,4 @@
-- uses: actions/checkout@v3
+- uses: deni
   with:
     # Repository name with owner. For example, actions/checkout
     # Default: ${{ github.repository }}
